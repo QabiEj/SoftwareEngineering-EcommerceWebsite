@@ -14,7 +14,6 @@ Supermarket-Online-Shop
 |-- Studimi i fizibilitetit.docx
 |-- Termat e references.doc
 |-- Specifikimi i sistemit.docx
-|-- LICENSE
 |-- README.md
 ```
 
